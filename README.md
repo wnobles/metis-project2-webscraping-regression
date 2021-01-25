@@ -1,7 +1,7 @@
 ### Project Title
 What Kind of Whiskey Gets High User Ratings?
 ### Description
-Data collection through web scraping on various whiskeys that includes average user rating will be used to try to predict the attributes that go into making a well-received whiskey.
+Data collection of various attributes for different whiskeys through web scraping from the Total Wine website will be used to train a linear regression model that predicts the average user rating for a certain bottle.
 ### Features and Target Variables
 * Name
 * Number of Reviews
@@ -16,5 +16,6 @@ Data collection through web scraping on various whiskeys that includes average u
 * Selenium
 * Seaborn
 * Pandas
+* scikit-learn
 ### Possible Impacts
-Distillers can use the information to more reliably create a whiskey that will be more well-received and generate greater sales, and individuals will be able to safely recommend a type of whiskey that someone will more likely enjoy.
+Distillers can use the information to more reliably create a whiskey that will be more well-received and generate greater sales, and individuals will be able to recommend a certain whiskey that someone will more likely enjoy.
